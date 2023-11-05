@@ -1,0 +1,63 @@
+<html>
+  <head>
+    <title>Tartu Voco Website</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+      integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.20.0/jquery.validate.min.js"
+      integrity="sha512-WMEKGZ7L5LWgaPeJtw9MBM4i5w5OSBlSjTjCtSnvFJGSVD26gE5+Td12qN5pvWXhuWaWcVwF++F7aqu9cvqP0A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script type="text/javascript" src="logic/register.js"></script>
+    <link
+      href="style/style.css"
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+    />
+  </head>
+  <body>
+    <div class="content">
+      <div class="header">
+        <button class="return" onclick='window.location.href="index.html"'>
+          <img alt="back" height="16px" src="back.png" />
+        </button>
+        <h2>Registration Page</h2>
+      </div>
+      <form id="register-form" method="POST">
+        <div class="input-container">
+          <label>Enter name:</label>
+          <input type="text" name="name" required="required" />
+        </div>
+
+        <div class="input-container">
+          <label>Enter username:</label>
+          <input type="text" name="username" required="required" />
+        </div>
+
+        <div class="input-container">
+          <label>Enter password:</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            required="required"
+          />
+        </div>
+
+        <div class="input-container">
+          <label>Enter password again:</label>
+          <input type="password" name="cpassword" required="required" />
+        </div>
+
+        <div id="error"></div>
+        <input type="submit" value="Register" id="register-button" />
+      </form>
+    </div>
+  </body>
+</html>
