@@ -21,11 +21,11 @@ Peaks olema mobiilisõbralik veebileht.
 
 ## Pildid
 
-![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/a6315928-f448-4007-b7b4-5a1f2cb30b85)
+![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/6761d7f2-da62-4d37-82a6-ca4a8ce93b72)
 
-![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/5ca756f7-dfde-4be1-b3ec-2573c77295cd)
+![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/e867d976-c05a-434a-aa5a-e8000c98a615)
 
-![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/231eb295-6935-4d01-a71b-f0f15db3b2d6)
+![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/4dcf2fc0-d8d1-409a-be20-301cd7e65610)
 
-![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/e9fb64bc-9581-491a-874f-e27a5f0de502)
+![image](https://github.com/traaga/TartuVocoWebsite/assets/26087792/66fa38f5-6d0a-4a52-9be8-06bdd1f06053)
 
